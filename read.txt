@@ -1,1 +1,2 @@
-Models in progress
+Main script file contains code for supervised learning model developed using scikit learning library.
+It is used to find the equivalent inch value for the given input value which has to be in mtrs.
